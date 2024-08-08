@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Eu+Sou+o+João+🐤;" />
+</h1><br>
 
-<!--
-**joaoSilva240/joaoSilva240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫Sobre mim:
+###### 🏢- trabalhando no departamento de governo digital;<br><br>💻-Estudando JavaScript, HTML, CSS, TypeScript, ultimamente;<br><br>📈-Buscando por desenvolvimento pessoal e inovação;<br><br>🎨-Tenho boa desenvoltura com sofwares de design;<br>
+------
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,typescript,nodejs,docker,git" />
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,vscode,github,aws" /><br>
+</div>
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joaoSilva240&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=joaoSilva240&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoSilva240&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=joaoSilva240&icon=2&color=3)](https://visitcount.itsvg.in)
