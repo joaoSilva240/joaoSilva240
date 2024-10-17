@@ -7,7 +7,7 @@
 
 -------
 
-###### 🏢- trabalho na prefeitura municipal de boituva no departamento de governo digital;<br><br>💻-Estou estudando atualmente JavaScript, HTML, CSS, TypeScript;<br><br>📈-Buscando por desenvolvimento pessoal e inovação;<br><br>🎨-Tenho boa desenvoltura com sofwares de design;
+###### 🏢- trabalho na prefeitura municipal de boituva no departamento de governo digital;<br><br>💻-Estou estudando atualmente UI/UX Design, JavaScript, HTML, CSS, TypeScript;<br><br>📈-Buscando por desenvolvimento pessoal e inovação;<br><br>🎨-Tenho boa desenvoltura com sofwares de design;
 -------
 
 <br>
