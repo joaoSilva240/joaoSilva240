@@ -1,18 +1,18 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+Eu+Sou+o+João+🙃;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Eu+Sou+o+João;" />
 </h1><br>
-<img align="right" alt="8bit image" width="450px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/641c2b170466977.645e34a7760bf.gif">
+
 
 <h3>🐤 Eu: </h3>
 
 -------
 
-###### 🏢- trabalho na prefeitura municipal de boituva no departamento de governo digital;<br><br>💻-Estou estudando atualmente React,NodeJs, JavaScript, HTML, CSS;<br><br>📈-Buscando por desenvolvimento pessoal e inovação;<br><br>🎨-Tenho boa desenvoltura com sofwares de design;
+###### 🏢- trabalho na prefeitura municipal de boituva no departamento de governo digital;<br><br>💻-Estou estudando atualmente React,NodeJs,Typescript,Docker;<br><br>📈-Buscando por desenvolvimento pessoal e inovação;<br><br>🎨-Tenho boa desenvoltura com sofwares de design;
 -------
-
+### Tenho conhecimento em:
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,css,javascript,python,git" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,css,tailwind,typescript,javascript,supabase,mongodb,prisma,python,git,docker" />
     <img src="https://skillicons.dev/icons?i=photoshop,figma,vscode,github" /><br>
     
 ------
