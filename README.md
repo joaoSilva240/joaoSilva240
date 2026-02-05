@@ -7,12 +7,12 @@
 
 -------
 
-###### 🏢- trabalho na prefeitura municipal de boituva no departamento de governo digital;<br><br>💻-Estou estudando atualmente React,NodeJs,Typescript,Docker;<br><br>📈-Buscando por desenvolvimento pessoal e inovação;<br><br>🎨-Tenho boa desenvoltura com sofwares de design;
+###### 🏢- Atualmente trabalhando na prefeitura municipal de boituva com inovação governamental;<br><br>💻-Minha Stack é o NextJS com Banco de Dados Relacional;<br><br>📈-Buscando por desenvolvimento pessoal e inovação;<br><br>;
 -------
 ### Tenho conhecimento em:
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,css,tailwind,typescript,javascript,supabase,mongodb,prisma,python,git,docker" />
+    <img src="https://skillicons.dev/icons?i=nextjs,redis,react,nodejs,css,tailwind,typescript,supabase,drizzle,python,git,docker" />
     <img src="https://skillicons.dev/icons?i=photoshop,figma,vscode,github" /><br>
     
 ------
