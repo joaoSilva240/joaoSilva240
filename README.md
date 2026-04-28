@@ -4,7 +4,7 @@
 
 Atualmente, sou estagiário no Departamento de Governo Digital da Prefeitura de Boituva, onde atuo com foco em inovação, tecnologia e modernização da gestão pública. Sou graduando em Gestão da Tecnologia da Informação pela FATEC Tatuí (6º semestre) e venho fortalecendo minha formação com cursos e projetos práticos nas áreas de programação, desenvolvimento web e banco de dados.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoSilva240&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoSilva240&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaoSilva240&theme=dark&hide_border=true)<br/>
 
 <div align="center">
