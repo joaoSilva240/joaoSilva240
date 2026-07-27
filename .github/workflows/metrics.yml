@@ -1,0 +1,28 @@
+name: Metrics
+
+on:
+  # Atualiza todo dia à meia-noite (UTC)
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite rodar manualmente na aba Actions
+  workflow_dispatch:
+  # Atualiza também sempre que você der push no main
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          filename: metrics.svg
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
