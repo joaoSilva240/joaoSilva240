@@ -9,29 +9,14 @@
 
 <br>
 </div>
-
 <br>
 
-<a id="main-quest"></a>
 ## 📜 Main Quest
 
 Meu nome é **João Vitor** e atualmente faço parte do **Departamento de Inovação Governamental da Prefeitura de Boituva**, onde minha missão é transformar dados em informação, automatizar processos e desenvolver soluções tecnológicas para melhorar os serviços públicos.
-
 <br>
 
-<a id="guild-memberships"></a>
-## 🏰 Guild Memberships
-
-| Instituição | Formação | Status |
-|:--|:--|:--:|
-| — | Pós-graduação em Engenharia de Dados | 🔜 Em breve |
-| FATEC Tatuí | Tecnólogo em Gestão da Tecnologia da Informação | ✅ Concluído |
-| Instituto Federal de São Paulo | Técnico em Redes de Computadores | ✅ Concluído |
-<br>
-
-<a id="equipment"></a>
 ## 🎒 Equipment
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
@@ -41,7 +26,7 @@ Meu nome é **João Vitor** e atualmente faço parte do **Departamento de Inova�
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,nodejs,tailwind" />
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 **🛡️ Infrastructure & Tools**
 
@@ -51,29 +36,29 @@ Meu nome é **João Vitor** e atualmente faço parte do **Departamento de Inova�
 </tr>
 </table>
 
+## 🏰 Guild Memberships
+
+| Instituição | Formação | Status |
+|:--|:--|:--:|
+| — | Pós-graduação em Engenharia de Dados | 🔜 Em breve |
+| FATEC Tatuí | Tecnólogo em Gestão da Tecnologia da Informação | ✅ Concluído |
+| Instituto Federal de São Paulo | Técnico em Redes de Computadores | ✅ Concluído |
+<br>
+
+
+
 <br>
 
 <a id="character-progress"></a>
 ## 📈 Character Progress
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoSilva240&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
+<div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoSilva240&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <br>
-
-<div align="center"> <img src="./metrics.svg" alt="GitHub Metrics" width="40%" /> </div> <br>
----
-
+<div align="center"> <img src="./metrics.svg" alt="GitHub Metrics" width="40%" /> </div>
 <br>
-
-<a id="side-quests"></a>
 # 🎲 Side Quests
 
 Quando não estou trabalhando ou estudando tecnologia, normalmente estou explorando mundos de RPG de mesa.
