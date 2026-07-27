@@ -68,6 +68,7 @@ Meu nome é **João Vitor** e atualmente faço parte do **Departamento de Inova�
 
 <br>
 
+<div align="center"> <img src="./metrics.svg" alt="GitHub Metrics" width="40%" /> </div> <br>
 ---
 
 <br>
