@@ -36,7 +36,7 @@ Meu nome é **João Vitor** e atualmente faço parte do **Departamento de Inova�
 </tr>
 </table>
 
-## 🏰 Guild Memberships
+## 📖 Character Lore
 
 | Instituição | Formação | Status |
 |:--|:--|:--:|
@@ -45,48 +45,9 @@ Meu nome é **João Vitor** e atualmente faço parte do **Departamento de Inova�
 | Instituto Federal de São Paulo | Técnico em Redes de Computadores | ✅ Concluído |
 <br>
 
-
-
-<br>
-
-<a id="character-progress"></a>
-## 📈 Character Progress
-
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoSilva240&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-<div align="center"> <img src="./metrics.svg" alt="GitHub Metrics" width="40%" /> </div>
-<br>
-# 🎲 Side Quests
-
-Quando não estou trabalhando ou estudando tecnologia, normalmente estou explorando mundos de RPG de mesa.
-
-**Favorite Systems**
-
-| Sistema | Função |
-|:--|:--:|
-| 🐉 Dungeons & Dragons 5e | Mestre & Jogador |
-| ⚔️ Pathfinder 2e | Jogador |
-| 👁️ Ordem Paranormal RPG | Investigador |
-| ☢️ Fallout 2d20 | Sobrevivente |
-| 🐙 Achtung! Cthulhu 2d20 | Investigador |
-
-Além de serem um hobby, esses sistemas desenvolveram habilidades que levo para o desenvolvimento de software e inovação:
-
-🤝 Trabalho em equipe · 🧩 Resolução de problemas · 📖 Storytelling · 🎯 Planejamento · ⚡ Improvisação · 🧠 Pensamento estratégico
-
-## 📖 Character Lore
-
 Sempre gostei de explorar novos mundos.
 Hoje, esses mundos são bancos de dados, servidores, APIs e aplicações web.
-
 Assim como em uma campanha de RPG, acredito que grandes desafios não são vencidos por um único herói, mas por uma equipe que compartilha conhecimento, aprende continuamente e evolui a cada missão.
-
-Cada projeto é uma nova quest.
-Cada problema resolvido concede XP.
-E sempre existe um próximo nível para alcançar.
 
 <br>
 
